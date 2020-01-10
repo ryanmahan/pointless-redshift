@@ -1,0 +1,23 @@
+{
+  "name": "redshift",
+  "version": "1.0.0",
+  "description": "A JS package that redshift and blueshifts the webpage as you scroll up and down it",
+  "main": "redshift.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ryanmahan/redshift.git"
+  },
+  "keywords": [
+    "redshift",
+    "blueshift"
+  ],
+  "author": "Ryan Mahan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryanmahan/redshift/issues"
+  },
+  "homepage": "https://github.com/ryanmahan/redshift#readme"
+}
