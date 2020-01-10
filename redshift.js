@@ -38,3 +38,5 @@ const redshift = ( maxOpacity ) => {
     filterNode.style.opacity = velocity;
   };
 }
+
+module.exports = redshift;
