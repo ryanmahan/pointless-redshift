@@ -1,6 +1,6 @@
 {
   "name": "pointless-redshift",
-  "version": "1.1.1",
+  "version": "1.2",
   "description": "A pointless JS package that redshift and blueshifts the webpage as you scroll up and down it",
   "main": "redshift.js",
   "scripts": {

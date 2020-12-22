@@ -10,10 +10,7 @@ const redshift = ( maxOpacity ) => {
     opacity: 0;
     pointer-events: none;
   `
-
-  window.onload = () => {
-    document.body.appendChild(filterNode);
-  }
+  document.body.appendChild(filterNode);
   
   let delta = 0;
   let oldPos = 0;
